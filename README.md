@@ -8,6 +8,7 @@ Generate stunning liquid glass effects like iOS 26. Customize Apple-style blur, 
 
 🔗 [Visit the site → https://www.liquid-glass.pro](https://www.liquid-glass.pro)  
 📦 [Vue Component Docs → https://www.liquid-glass.pro/doc/vue.html](https://www.liquid-glass.pro/doc/vue.html)
+📦 [React Component Docs → https://www.liquid-glass.pro/doc/react.html](https://www.liquid-glass.pro/doc/react.html)
 
 A powerful web-based tool for generating **liquid glass effects**, inspired by **iOS 26** and Apple's next-gen UI style. Instantly preview and export **CSS & HTML** code — or integrate directly via Vue components.
 
@@ -51,5 +52,6 @@ Style your typography with a beautiful translucent effect and background lightin
 
 👉 [https://www.liquid-glass.pro](https://www.liquid-glass.pro)  
 📚 [Vue Component Usage → https://www.liquid-glass.pro/doc/vue.html](https://www.liquid-glass.pro/doc/vue.html)
+📚 [React Component Usage → https://www.liquid-glass.pro/doc/react.html](https://www.liquid-glass.pro/doc/react.html)
 
 > This repository is currently used for documentation and showcasing the Liquid Glass component.
